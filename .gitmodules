@@ -1,4 +1,3 @@
 [submodule "School_Notebooks"]
   path = School_Notebooks
-  url = <repository_url>
-  
+  url = "https://github.com/Down2Derive/School-Notebooks/blob/main/School_Notebooks"
