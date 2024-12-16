@@ -1,5 +1,2 @@
-CS[[:space:]]4010 filter=lfs diff=lfs merge=lfs -text
-Astro_Class filter=lfs diff=lfs merge=lfs -text
-School_Notebooks filter=lfs diff=lfs merge=lfs -text
 *.csv filter=lfs diff=lfs merge=lfs -text
 gaia_data.csv filter=lfs diff=lfs merge=lfs -text
